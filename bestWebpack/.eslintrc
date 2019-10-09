@@ -1,0 +1,9 @@
+{
+	"root": true,
+	"extends": "axf",
+	"globals": {
+		"a": true,
+		"axf": true,
+		"console": true
+	}
+}
